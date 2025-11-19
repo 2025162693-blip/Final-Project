@@ -1,0 +1,35 @@
+<html>
+      <body>
+        <div class="top-section">
+            
+<Center><h1><p style="color: white;">Fundamentals Of Computing</h1></Center>
+        </div>
+    </body>
+    <head>
+        <style>
+            .top-section {
+                background-color: #800080;
+                height: 85px; 
+                width: 100%; 
+            }
+        </style>
+    </head>
+   
+ <a href=>Courses</a> <br>
+ <a href=>Projects</a><br>
+ <a href=>Concepts</a><br>
+ <a href=>DataBases</a><br>
+ <a href=>Documentation</a><br>
+ <a href=>Dev Team</a><br>
+
+   
+ 
+ 
+ <center><style> height: 500px; width: 500%;<img src="https://egr.vcu.edu/media/engineering/images/FundofCS_v4_Web-02.png"></center></style><br>
+ <center><p>This course is an introduction to the fundamentals of Computer Science that will provide students with a foundation for 
+ future courses in Computer Science. The course is a broad survey of the discipline through topics that allow students to understand 
+ the capabilities of computer systems in terms of: the computer architecture; operating systems and computer networks; software and 
+ software development; data organization and visualization; and the potential of computing machines.</p></center>
+  </html>
+  
+  
