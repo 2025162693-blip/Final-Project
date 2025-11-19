@@ -15,12 +15,12 @@
         </style>
     </head>
    
- <a href=>Courses</a> <br>
- <a href=>Projects</a><br>
- <a href=>Concepts</a><br>
- <a href=>DataBases</a><br>
- <a href=>Documentation</a><br>
- <a href=>Dev Team</a><br>
+ <a href=index.html>Courses</a> <br>
+ <a href=projects.index.html>Projects</a><br>
+ <a href=concepts.index.html>Concepts</a><br>
+ <a href=databases.index.html>DataBases</a><br>
+ <a href=documentation.index.html>Documentation</a><br>
+ <a href=aboutMe.index.html>About Me</a><br>
 
    
  
@@ -33,3 +33,4 @@
   </html>
   
   
+
